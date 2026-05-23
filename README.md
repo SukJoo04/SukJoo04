@@ -1,4 +1,4 @@
-## Hi! I'm Bernardi Suk Ju Kim 👋
+## Hi! I'm Bernardo Suk Ju Kim 👋
 
 💻 Software Engineering Student at FIAP  
 🚀 Full-Stack Developer in progress
